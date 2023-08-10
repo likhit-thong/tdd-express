@@ -1,0 +1,11 @@
+{
+    "database": {
+        "database": "bydetcaf",
+        "username": "bydetcaf",
+        "password": "Vw9h2aGp6KaOAJuHyBBEhMko6A7XRI6m",
+        "host": "tiny.db.elephantsql.com",
+        "dialect": "postgres",
+        "storage": "",
+        "logging": false
+    }
+}
